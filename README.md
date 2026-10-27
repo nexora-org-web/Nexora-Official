@@ -29,7 +29,7 @@ NEXORA is an open-source organization that builds fun, fast and creative web app
 |---|---|---|---|
 | **Colour Crash** | A fast-paced colour reflex survival game. Match your colour to the rushing shapes before they hit you. | [Repository](https://github.com/nexora-org-web/colour-crash) | [Play](https://nexora-org-web.github.io/colour-crash/) |
 | **Digital Doppelgänger** | An experimental personality experience that turns your answers into a shareable digital identity card. | [Repository](https://github.com/nexora-org-web/Digital-Doppelg-nger) | [Try it](https://nexora-org-web.github.io/Digital-Doppelg-nger/) |
-| **NEXORA Local AI** | A portable offline AI (Gemma 3 270M) that runs on your own PC or a USB drive. No internet needed after setup. | [Repository](https://github.com/nexora-org-web/NEXORA-Local-AI)| [Try it](https://nexora-org-web.github.io/NEXORA-Local-AI/) |
+| **** |  | [Repository]()| [Try it]() |
 
 <!--
 HOW TO ADD A NEW PROJECT:
