@@ -7,6 +7,8 @@
 [Colour Crash](https://github.com/nexora-org-web/colour-crash) ·
 [Digital Doppelgänger](https://github.com/nexora-org-web/Digital-Doppelg-nger) ·
 [NEXORA Local AI](https://github.com/nexora-org-web/NEXORA-Local-AI)
+[NEXORA OS] 
+(https://github.com/nexora-org-web/Nexora-Os)
 
 </div>
 
@@ -29,7 +31,7 @@ NEXORA is an open-source organization that builds fun, fast and creative web app
 |---|---|---|---|
 | **Colour Crash** | A fast-paced colour reflex survival game. Match your colour to the rushing shapes before they hit you. | [Repository](https://github.com/nexora-org-web/colour-crash) | [Play](https://nexora-org-web.github.io/colour-crash/) |
 | **Digital Doppelgänger** | An experimental personality experience that turns your answers into a shareable digital identity card. | [Repository](https://github.com/nexora-org-web/Digital-Doppelg-nger) | [Try it](https://nexora-org-web.github.io/Digital-Doppelg-nger/) |
-| **** |  | [Repository]()| [Try it]() |
+| **NEXORA OS** |  | [Repository](https://github.com/nexora-org-web/Nexora-Os)| [Try it](https://nexora-org-web.github.io/Nexora-Os/) |
 
 <!--
 HOW TO ADD A NEW PROJECT:
