@@ -6,9 +6,6 @@
 
 [Colour Crash](https://github.com/nexora-org-web/colour-crash) ·
 [Digital Doppelgänger](https://github.com/nexora-org-web/Digital-Doppelg-nger) ·
-[NEXORA Local AI](https://github.com/nexora-org-web/NEXORA-Local-AI)
-[NEXORA OS] 
-(https://github.com/nexora-org-web/Nexora-Os)
 
 </div>
 
